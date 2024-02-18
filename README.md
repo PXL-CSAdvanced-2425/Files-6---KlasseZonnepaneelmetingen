@@ -1,11 +1,11 @@
 # KlasseZonnepaneelmetingen
 
-Maak voor toepassing 4 *Zonnepaneelmetingen* een klasse aan de gegevens
+Maak voor deze toepassing een klasse aan om de gegevens
 in te lezen, de metingen te verwerken en de resultaten terug weg te
 schrijven.
 
 Je maakt voor deze toepassing een eigen klasse **Metingen.** Formuleer
-zelf **en methodes.**
+deze volledig zelf.
 
 ***Afdrukvoorbeeld met detailgegevens:***
 
